@@ -1,0 +1,19 @@
+$base-color: #422a26;
+$base-background-color: #d3c7c7;
+
+body {
+  background-color: $base-background-color;
+}
+
+h1 {
+  color: $base-color;
+}
+
+.btn-delete {
+    background-color: $base-color;
+    color: $base-background-color;
+    padding: 4px 10px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 4px;
+}
