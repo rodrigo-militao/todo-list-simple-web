@@ -4,7 +4,6 @@ temp_*
 tests/*
 *.test*
 *.zip
-.main
 .release
 src/exit
 package-lock.json
