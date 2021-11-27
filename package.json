@@ -12,6 +12,7 @@
     "web": "file:.library"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "simple-web-cli": "^2.4.8"
   }
 }
